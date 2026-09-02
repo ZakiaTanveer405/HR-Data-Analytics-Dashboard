@@ -3,9 +3,22 @@ Interactive HR analytics dashboard built with Microsoft Excel to analyze employe
 <br>
 # Project Overview
 
-This project presents an Excel-based HR dashboard designed to transform employee data into meaningful insights through interactive visualizations and summary metrics.
+The HR Analytics Dashboard is an interactive Excel-based dashboard designed to analyze and visualize employee-related data.
 
-The dashboard helps understand workforce composition, employee distribution, attrition patterns, and other important HR indicators.
+The dashboard provides insights into:
+
+Employee headcount
+Employee attrition
+Attrition rate
+Department-wise employee distribution
+Employee demographics
+Gender distribution
+Age distribution
+Education background
+Employee performance
+Department-wise employee ratio
+Compensation & salary-related analysis
+Overall employee satisfaction and performance
 <br>
 # Tools & Skills Used
 Microsoft Excel
@@ -16,6 +29,19 @@ Data Cleaning & Formatting
 Data Analysis
 Data Visualization
 Dashboard Design
+<br>
+# 🗂️ Dashboard Navigation
+
+The dashboard contains 6 main tabs/sections:
+
+1. 🏠 Dashboard
+2. 📉 Attrition Analysis
+3. 👥 Employee Demographics
+4. 💰 Compensation & Salary
+5. 📈 Performance & Satisfaction
+6. ℹ️ About
+
+Each tab focuses on a different aspect of HR analytics.
 <br>
 # 📈 Key Analysis
 
@@ -45,6 +71,14 @@ This project demonstrates practical skills in:
 
 Excel • Data Cleaning • Data Analysis • Pivot Tables • Data Visualization • Dashboard Development • Business Insights
 <br>
-# 📌 Project Purpose
+## 🚀 How to Use
 
-This project was created as part of my Data Analytics portfolio to demonstrate my ability to work with structured data, perform analysis, and create professional dashboards using Microsoft Excel.
+1. Open the Excel workbook.
+2. Go to the **Dashboard** tab.
+3. Select a department using the Department filter.
+4. Select a month using the Month filter.
+5. Select Female or Male using the Gender filter.
+6. Review the updated KPIs and charts.
+7. Navigate through the six tabs for detailed analysis.
+8. Use the visualizations to identify HR trends and insights.
+
